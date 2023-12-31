@@ -1,0 +1,376 @@
+Bài thứ nhất.
+Anh đã ăn cơm chưa?
+Tôi đã ăn rồi
+Tôi mới ăn xong
+Anh ăn với rau gì?
+Tôi ăn với cá
+Tôi ăn cơm mắm thôi, không có rau gì hết
+Bài thứ hai
+Anh ăn cơm chưa?
+Tôi chưa ăn
+Mời anh ăn với gia đình tôi tối nay
+Được
+Bài thứ ba
+Ăn thêm đi
+Cảm ơn tôi ăn no rồi
+Anh uống nước trà đi
+Cảm ơn, tôi uống rồi
+Bài thứ tư
+Họ bán gạo ở đâu?
+Tôi không biết
+Tại sao?
+Vì gạo tôi mua lâu rồi. 
+Bài thứ năm
+Anh có muốn mua gạo không?
+Tôi chưa muốn mua
+Anh có muốn mua rượu không?
+Tôi không bao giờ muốn
+Tôi không uống rượu
+Tôi không biết hút thuốc
+Bài thứ sáu
+Bà bán chuối giá bao nhiêu?
+50 đồng một nải
+Đắt quá, tôi không mua
+Tôi mua hai nải 50 đồng, được không?
+Được
+Bài thứ bảy
+Tôi đi mua đồ
+Ai bán bắp cho tôi mua?
+Tôi mua hai trái bắp 20 đồng.
+Anh mua của ai?
+Tôi mua của nó đó.
+Bài thứ tám
+Các anh đi đâu?
+Chúng tôi đi chơi?
+Hai ông đi làm gì?
+Hai chúng tối đi làm rẫy
+Bài thứ chín
+Anh ở làng nào?
+Tôi ở làng Plei Bŏng.
+Hai người đó ở làng nào?
+Hai người đó ở Kon Brŭng gần Plei Bŏng.
+Bài thứ mười
+Bà làm gì đó?
+Tôi đang suốt lúa.
+Bà thích suốt lúa không?
+Tôi thích suốt lúa, nhưng mệt lắm.
+Thôi tôi nghỉ, tôi về nấu cơm
+Bài thứ mười một
+Anh làm việc có mệt không?
+Tôi mệt lắm.
+Tôi cũng mệt.
+Hai chúng ta đi về đi
+Bài thứ mười hai
+Chúng ta đi Kông Brĕch
+Các ông đi trước, tôi đi sau
+Tôi đi bộ không nổi, mệt quả
+Thôi, chúng ta lên xe đi
+Bài thứ mười ba
+Anh vô quận Lệ Trung khi nào?
+Tôi đến hôm qua
+Bao giờ anh đi về
+Ngày mai tôi cũng đi nói cho anh biết
+Bài thứ mười bốn
+Cái gì đây?
+Đây là cái gúi?
+Cái gì kia?
+Đó là con dao
+Bài thứ mười lăm
+Nhà anh bao xa?
+Nhà tôi gần đây
+Tôi đến thăm anh nếu có thì giờ
+Cám ơn anh đến thăm cũng được
+Bài thứ mười sáu
+Tôi mới đến thăm anh
+Anh vô nhà chơi
+Anh có mạnh khỏe không?
+Tôi vẫn mạnh
+Tôi cũng vẫn mạnh khỏe như thường
+Bài thứ mười bảy
+Tên anh là gì?
+Tên tôi là Đuang
+Tôi hân hạnh gặp anh
+Anh bao nhiêu tuổi
+Tôi mười tám tuổi
+Bài thứ mười tám
+Anh lấy vợ chưa?
+Chị có chồng chưa?
+Tôi lấy vợ rồi
+Anh có mấy đứa con?
+Tôi có ba đứa rồi
+Một con trai và hai con gái
+Bài thứ mười chín
+Anh có mấy anh em?
+Tôi có bốn anh em, nhưng một người chết rồi
+Cha mẹ anh còn sống không?
+Cha mẹ tôi còn sống
+Cha mẹ tôi chết rồi
+Bài thứ hai mươi
+Anh Biang có bao nhiêu anh em?
+Nó nói nó có một người anh thôi
+Mẹ của anh Đin là em của cha Biang có phải không?
+Phải, hai người đó có một ông bà nội, hai người đó là anh em
+Bài thứ hai mươi mốt
+Anh Nut ở đâu?
+Anh đi Kontum chưa về
+Anh ngồi nghỉ đợi anh ấy
+Thôi, tôi ngồi ngoài sân cũng được
+Bài thứ hai mươi hai
+Các anh có biết anh Nut đi đâu không?
+Tôi quên, không biết nó đi đâu
+Nó đi Kontum làm việc
+Khi nào nó về?
+Không hiểu, chúng tôi không biết
+Thôi, tôi về
+Đi mạnh giỏi nhé!
+Anh ở lại mạnh giỏi
+Bài thứ hai mươi ba
+Lâu lắm không gặp anh
+Tôi không nhận ra anh
+Tôi ít khi đến đây
+Mấy ngày nay tôi làm việc nhiều lắm
+Bài thứ hai mươi bốn
+Anh ở làng nào?
+Tôi ở làng Kon Chranh gần Măng Yang
+Từ Kon Chrah anh có trông đến Măng Yang không?
+Có chứ
+Từ Kon Chrah đến Măng Yang có bao nhiêu cây số?
+Độ chừng bốn cây số
+Bài thứ hai mươi lăm
+Mấy giờ hai ông bắt đầu đi Pleiku?
+Phải bao lâu mới đến Pleiku?
+Hai ông ở Pleiku bao nhiêu lâu rồi?
+Hai ông ở Pleiku bao lâu nữa?
+Tại sao hai ông ở Pleiku?
+Hai ông đến Pleiku làm gì?
+Bài thứ hai mươi sáu
+Anh Neng ở đâu?
+Anh Neng đi vắng
+Bao giờ nó về đây?
+Tôi không biết, một chút hoặc lâu
+Nó xin phép đi lên đó hồi nãy
+Có lẽ ổng còn ở trên đó
+Có lẽ ổng về nhà rồi chắc
+Nó đi mất đàng kia, tôi mới thấy bây giờ đây
+Bài thứ hai mươi bảy
+Hôm qua các anh làm gì?
+Hôm qua chúng tôi làm rẫy
+Ngày mai các anh có làm gì nữa không?
+Ngày mai chúng tôi không có làm gì, nghỉ thôi
+Ngày mai tôi muốn đến thăm các anh độ chừng chín giờ
+Bài thứ hai mươi tám
+Tôi đói lắm
+Sao anh không muốn ăn comw?
+Tôi đau bụng quá
+Anh uống nước nóng đi
+Bài thứ hai mươi chín
+Bác đi kiết nặng gần chết
+Ổng đi tiểu ra máu không?
+Ổng không thể dậy đi đâu hết
+Tôi không biết làm gì
+Tôi nói anh đi kêu bác sĩ đến coi cho ông ấy
+Đồng ý, tôi đi bây giờ
+Uống thuốc khỏi đau ruột
+Bài thứ ba mươi
+Hôm kia có một người Rơngao đến xin thuốc tôi
+Nó nói nó bệnh sốt rét, có nóng lạnh
+Tôi thấy nó ốm
+Nó nói nó đau hai tuần lễ
+Tôi trả lời tôi không phải y tá
+Tôi cho nó thuốc sốt rét và thuốc khỏe
+Bài thứ ba mươi mốt
+Ba tôi đau, ông ấy không vui
+Đau thế nào?
+Ba tôi đau đầu
+Ông có thuốc làm ơn cho tôi với?
+Tôi đưa cho ba tôi uống coi có dở không
+Bài thứ ba mươi hai
+Xin làm thuốc cho chân con tôi đây
+Nó bị chông đâm vô, ra máu nhiều
+Đừng khóc nữa, nín đi con
+Tôi băng cho, đừng để nó ướt
+Mai bà mang nó đến làm thuốc nữa nhé
+Bài thứ ba mươi ba
+Xin thoa thuốc muỗi cắn
+Muối nó cắn ngứa, em gãi, nổi mụt
+Nếu nó ngứa, không sao, chút nữa hết
+Đừng gãi nữa
+Bài thứ ba mươi bốn
+Anh có phải người Bahnar không?
+Đúng, tôi là người Bahnar
+Tôi muốn học tiếng Bahnar
+Anh có muốn dạy cho tôi không?
+Tôi muốn dạy cho ông biết tiếng Bahnar
+Bài thứ ba mươi lăm
+Tiếng Bahnar khó lắm
+Không phải, tiếng Bahnar cũng dễ
+Tôi muốn nói chuyện nhiều với ông
+Tôi cũng thế
+Tôi muốn học với ông mỗi ngày
+Bài thứ ba mươi sáu
+Ủa, ông cũng biết tiếng Bahnar nữa?
+Tôi mới biết ít, chưa đủ
+Xin ông dạy tôi đếm bằng tiếng Bahnar
+Tôi học chưa được giỏi mấy
+Tôi ở đây chưa được lâu
+Bây giờ ông nói theo tôi
+Bài thứ ba mươi bẩy
+Anh nói gì tôi không hiểu?
+Anh nói mau quá tôi nghe chưa kịp
+Xin anh nói chậm
+Xin anh nói một lần nữa coi
+Bài thứ ba mươi tám
+Tiếng Việt nói sao?
+Tiếng Bahnar nói thế nào?
+Tôi nói có đúng không?
+Tôi nói anh có hiểu không?
+Tôi nói không đúng, anh sửa giùm để tôi nói cách đúng
+Bài thứ ba mươi chín
+Mẹ làm gì đó?
+Mẹ đang giặt áo
+Hôm nay nóng lắm
+Giặt quân áo sĕ khô được
+Mẹ ơi! Áo đỏ của con mẹ cất ở đâu?
+Mẹ mới giặt, còn phơi chưa khô
+Con mặc áo nào?
+Mặc áo đen cũng được
+Bài thứ bốn mươi
+Chúng ta đi kéo lưới
+Tôi không có thì giờ
+Tôi mắc làm việc ở nhà
+Chiều nay mình đi kéo lưới về và để đó
+Bây giờ tôi đi tắm rồi xách nước
+Bài thứ bốn mươi mốt
+Ông có rựa không?
+Có, tôi có hai cái
+Cho tôi mượn một cái, tôi sĕ chặt cây
+Đây tôi cho ông mượn một cái
+Khi ông làm xong trả lại cho tôi
+Dạ
+Bài thứ bốn mươi hai
+Chẻ củi khó lắm
+Bởi vì chị không có mạnh khỏe
+Nếu chị khỏe, thì chỉ chẻ được dễ
+Nếu chị yếu thì chẻ củi lâu lắm
+Tôi tưởng cái riều này không tốt mấy
+Bài thứ bốn mươi ba
+Hai chúng tôi muốn làm nhà ở dưới đó
+Các anh muốn giúp đỡ hai chúng tôi không?
+Hai chúng tôi sĕ trả tiền
+Chúng tôi cũng muốn giúp hai ông
+Cảm ơn nhiều lắm
+Không có chi
+Bài thứ bốn mươi bốn
+Họ cất nhà rông mới xong
+Ngày mai nhà rông xong họ sĕ làm thịt trâu ăn
+Thanh niên đánh chiêng, thiếu nữ nhảy
+Người già sĕ thổi sáo
+Cả làng ăn trâu, ăn bò, ăn heo vui vẻ
+Bài thứ bốn mươi lăm
+Hôm qua có hai người hái trái
+Một người rớt gãy cánh tay
+Bởi vì nó không cẩn thận
+Tôi sợ leo hái trái như vậy sĕ rớt chết
+Bài thứ bốn mươi sáu
+Nếu con nghịch dao như vậy, mẹ sợ con sĕ bị đứt tay
+Mẹ sợ con đứt tay, thì làm sao?
+Ủa, con đứt tay rồi à?
+Mẹ nói nhưng con không nghe
+Bài thứ bốn mươi bảy
+Tao chạy mau hơn mày
+Không có, tao chạy mau hơn mày
+Mai mình cùng chạy thử, coi ai mạnh hơn
+Tao mạnh hơn mày, mày yếu hơn tao
+Bài thứ bốn mươi tám
+Hôm nay nắng lắm
+Kìa, trời sắp mưa
+Trời đã có chớp và sấm cũng có gió nữa
+Gió thổi mạnh lắm
+Chúng ta mau mau về
+Bài thứ bốn mươi chín
+Trời mưa lớn lắm
+Hai ông có thích trời mưa không?
+Tôi không thích trời mưa
+Trời mưa mới có đồ ăn
+Bài thứ năm mươi
+Bây giờ tôi đi săn heo rừng và con mang
+Tôi muốn đi với anh
+Được, anh xách cho tôi cái ná và tên
+Cái ná của anh mạnh lắm
+Bài thứ năm mươi mốt
+Anh sửa soạn đồ đi xong chưa?
+Đợi tôi một chút đã
+Tôi chưa sửa soạn đồ xong
+Tôi khát nước
+Tôi uống nước rồi đi
+Bài thứ năm mươi hai
+Chúng ta đi vào rừng
+Tôi sợ gặp cọp
+Tôi sợ gặp cọp nó vô chết
+Anh đừng sợ, tôi can đảm
+Bài thứ năm mươi ba
+Tôi thấy con nai lớn đằng kia
+Chúng ta đi chậm, im núp đi
+Đừng nói nó nghe, nó sĕ đứng dậy chạy
+Sao anh ho thế?
+Tôi không thể nín lại được nữa
+Con nai chạy vô rừng
+Xin lỗi, đừng la tôi
+Bài thứ năm mươi bốn
+Kia, con gì đó?
+Con heo rừng
+Anh bắn đi
+Bắn rồi không trúng
+Bài thứ năm mươi lăm
+Gần tối rồi
+Chúng ta đi về
+Tức quá, không bắn được con nai
+Thịt nai ngon lắm
+Ngày mai mình đi nữa 
+Bài thứ năm mươi sáu
+Bẫy kia đã bắt con mang
+Nó ra máu nhiều lắm
+Mình mau theo lối nó
+Nếu tìm được, mình khiêng về
+Tôi thèm thịt mang lắm
+Bài thứ năm mươi bẩy
+Hồi chiều con chuột bị mắc bẫy
+Con mèo không có bắt nó, bẫy chuột sập rồi
+Bẫy chuột đã bắt chuột, tôi lấy con chuột ra, và nó đã chết
+Tôi lấy ở đó ra và quăng rồi
+Sáng nay ông Nik lấy nướng ăn
+Bài thứ năm mươi tám
+Ở bên Mỹ có giống chuột không?
+Có nhưng chúng tôi không ăn
+Chúng tôi là người Bahnar thích ăn thịt chuột
+Người Bahnar có ăn đuôi chuột không?
+Có đuôi cũng ăn, chân cũng ăn
+Bài thứ năm mươi chín
+Nướng thịt chuột thế nào?
+Trước hết, nướng đề cháy hết lông
+Sau đó lấy nước rửa cho sạch
+Xong rửa rồi nấu chín, nấu chín xong rồi ăn
+Con chuột có cắn không?
+Cắn tay, mình có vết thương
+Bài thứ sáu mươi
+Con trăn quấn sát con nai
+Con nai ngã, nó nuốt nguyên con
+Con trăn lớn bao nhiêu?
+Đo được sáu vòng tay
+Tôi sợ con trăn vì nó mạnh lắm
+Bài thứ sáu mươi mốt
+Bí đao không phải tròn như bí đỏ
+Bí đao dài, vỏ màu xanh
+Tôi chưa ăn bí đao
+Ăn bí đao với thịt gà ngon lắm
+Anh đi lấy một trái bí đao tại vườn
+Bài thứ sáu mươi hai
+Ăn cơm với thịt heo ngon
+Ớt cay
+Măng le hơi đắng
+Chuối ngọt
+Mắm mặn có muối
+Trái cam chua
+Ăn bí đao vô vị
+Người đàn bà có thai không ăn thịt vượn, chó, khỉ, rắn, dê, họ cữ
+Họ ăn thịt heo, bò, trâu, gà
